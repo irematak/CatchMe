@@ -1,2 +1,2 @@
 # CatchMe
-Click the score that appears above the boxees to get it.
+Click the score that appears above the boxes to get it.
